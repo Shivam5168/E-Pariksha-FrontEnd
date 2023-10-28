@@ -14,7 +14,7 @@ export class PlayquizComponent implements OnInit {
   solutionArray: any[] = [];
   ansOfOneQuestion: any[] = [];
   ansKey: any[] = [];
-  time: any = 10;
+  time: any = 60;
   timePerQuestion: any;
   interval: any;
   temp: any;
